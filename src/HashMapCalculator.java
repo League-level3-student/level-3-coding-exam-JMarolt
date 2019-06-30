@@ -1,0 +1,14 @@
+import java.util.HashMap;
+
+public class HashMapCalculator {
+
+	public int commonKeyValuePairs(HashMap<String, String> one, HashMap<String, String> two) {
+		int num = 0;
+		if(one.keySet().contains()) {
+			num++;
+		}
+		return num;
+		
+	}
+	
+}
